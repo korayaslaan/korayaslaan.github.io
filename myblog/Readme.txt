@@ -1,6 +1,1 @@
-Thanks for downloading this theme!
-
-Theme Name: eStartup
-Theme URL: https://bootstrapmade.com/estartup-bootstrap-landing-page-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Sitemi İncelediğiniz İçin Teşekkür Ederim Bu Örneğimde Html5 Ve Css Kullanarak Kendime Mini Bir Blog  Sayfası Yapmaya Çalıştım Dosyaları İndirerek Kendinize Göre Kişiselleştirip Kullanabilirsiniz
