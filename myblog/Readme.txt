@@ -1,1 +1,0 @@
-Sitemi İncelediğiniz İçin Teşekkür Ederim Bu Örneğimde Html5 Ve Css Kullanarak Kendime Mini Bir Blog  Sayfası Yapmaya Çalıştım Dosyaları İndirerek Kendinize Göre Kişiselleştirip Kullanabilirsiniz
